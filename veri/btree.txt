@@ -1,0 +1,23 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+-> 5 root
+7 sağa geçer
+5 sola geçer
+
+1, 5'in soluna geçer
+8, 7'nin sağına geçer
+
+3, 1'in sağına geçer
+6, 7'nin soluna geçer
+
+0, 1'in soluna geçer
+9, 8'in sağına geçer
+
+4, 3'ün sağına geçer
+2, 3'ün soluna geçer
+
+
+Big-O Gösterimi
+O(n)
+
+www.patika.dev
